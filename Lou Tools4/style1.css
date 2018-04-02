@@ -1,0 +1,24 @@
+#tw {
+	font-size: 25px;
+	font color: #2f2f2f;
+z-index: 1;
+}
+#logo{
+	height:40%;
+	width:40%;
+	margin-top:10px;
+	z-index: 0;
+}
+
+
+#banner{
+	width: 100px;
+	height:80px;
+	margin:center;
+}
+
+#footer{
+	font-size: 4px;
+	font color: #2f2f2f;
+
+}
